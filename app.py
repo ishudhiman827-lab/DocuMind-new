@@ -1,3 +1,5 @@
+import nltk
+nltk.download('punkt')
 import streamlit as st
 import pdfplumber
 import pytesseract
