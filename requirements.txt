@@ -1,11 +1,9 @@
 streamlit
-pdfplumber
-pytesseract
-pillow
 nltk
 scikit-learn
-reportlab
-langchain
-openai
-faiss-cpu
-tiktoken
+pandas
+spacy
+pytesseract
+pillow
+fpdf
+joblib
