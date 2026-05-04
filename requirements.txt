@@ -2,7 +2,10 @@ streamlit
 pdfplumber
 pytesseract
 pillow
-sumy
 nltk
 scikit-learn
 reportlab
+langchain
+openai
+faiss-cpu
+tiktoken
